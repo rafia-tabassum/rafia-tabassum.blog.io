@@ -6,7 +6,7 @@ phone: (650) 576-5403
 github: https://github.com/tmjam
 about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
 disqus_shortname: programming
-google_analytics: UA-31048387-6
+#google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -43,7 +43,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+url: "https://rafia-tabassum.blog.io"
 baseurl: ""
 paginate: 20
 per_page: 20
